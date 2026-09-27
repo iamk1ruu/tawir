@@ -2,7 +2,7 @@
 
 A Conversational Agent for Pangasinan Language Preservation.
 
-This project is forked from https://github.com/qdwkdq/TAWIR.
+This project is forked from https://github.com/qdwkdq/TAWIR-v3.
 
 ## Overview
 
