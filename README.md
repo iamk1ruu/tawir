@@ -1,4 +1,4 @@
-# TAWIR (v3.0.0)
+# TAWIR (v3.1.1)
 
 A Conversational Agent for Pangasinan Language Preservation.
 
