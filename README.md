@@ -58,6 +58,3 @@ flutter build windows --release
 flutter build web --release
 ```
 
-## Attribution & Acknowledgments
-
-This repository is forked from https://github.com/qdwkdq/TAWIR. All original structure and core foundations are credited to the original authors and contributors.
